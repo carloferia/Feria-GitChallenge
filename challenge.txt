@@ -1,2 +1,3 @@
 Git workflow challenge
 Carlo T. Feria - BSIT-4C
+Second change made locally and pushed with git push.
